@@ -1,3 +1,6 @@
 [submodule "projects/SnakeJS"]
 	path = projects/SnakeJS
 	url = https://github.com/Zoratu11/SnakeJS
+[submodule "projects/VideoGameDatabase"]
+	path = projects/VideoGameDatabase
+	url = https://github.com/Zoratu11/VideoGameDatabase
